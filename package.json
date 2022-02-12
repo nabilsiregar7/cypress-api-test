@@ -1,0 +1,25 @@
+{
+  "name": "cypress-api-test",
+  "version": "1.0.0",
+  "description": "API Test using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabilsiregar7/cypress-api-test.git"
+  },
+  "keywords": [
+    "API",
+    "Tesing",
+    "Cypress"
+  ],
+  "author": "Nabil Iswar Siregar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabilsiregar7/cypress-api-test/issues"
+  },
+  "homepage": "https://github.com/nabilsiregar7/cypress-api-test#readme"
+}
