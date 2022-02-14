@@ -1,6 +1,6 @@
 # cypress-api-test #
 
 # Installation
-* npm install to install dependencies
+* `npm install` and `npm install cypress` to install dependencies
 # Run
-* npm run test to run the test
+* `npm run test` to run
